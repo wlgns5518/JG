@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MarketingAIAgent.App/MarketingAIAgent.App.csproj" />
+    <Project Path="src/MarketingAIAgent.Application/MarketingAIAgent.Application.csproj" />
+    <Project Path="src/MarketingAIAgent.Domain/MarketingAIAgent.Domain.csproj" />
+    <Project Path="src/MarketingAIAgent.Infrastructure/MarketingAIAgent.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MarketingAIAgent.Tests/MarketingAIAgent.Tests.csproj" />
+  </Folder>
+</Solution>

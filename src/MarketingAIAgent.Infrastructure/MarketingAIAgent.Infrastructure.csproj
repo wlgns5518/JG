@@ -1,0 +1,2 @@
+<Project Sdk="Microsoft.NET.Sdk"><ItemGroup><ProjectReference Include="../MarketingAIAgent.Application/MarketingAIAgent.Application.csproj" /><PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="10.0.8" /><PackageReference Include="SQLitePCLRaw.bundle_e_sqlite3" Version="3.0.5" /><PackageReference Include="Microsoft.Playwright" Version="1.58.0" /><PackageReference Include="System.Security.Cryptography.ProtectedData" Version="10.0.8" /><PackageReference Include="Microsoft.Extensions.Http" Version="10.0.8" /></ItemGroup></Project>
+
